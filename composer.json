@@ -97,6 +97,12 @@
             "php samples/Sample_43_RTLDefault.php",
             "php samples/Sample_44_ExtractVariablesFromReaderWord2007.php",
             "php samples/Sample_45_Autoloader.php"
+        ],
+        "cli": [
+            "php cli.php"
+        ],
+        "conversion": [
+            "php conversion.php"
         ]
     },
     "scripts-descriptions": {
